@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <meta charset="utf-8">
+  
+  <head><title> Setembro Amarelo </title></head>
+   <bory align="center">
+   	<table>
+   	 <tr>
+   	  <td>
+   	   <img src="D:\maquina_virtual_t003\corpo_html.html\email_marketing\cabecalho.png" alt="imagem logo da Vasto">	
+   	  </td>
+   	 </tr>
+     <tr>
+      <td>
+       <img src="D:\maquina_virtual_t003\corpo_html.html\email_marketing\imagem.png" alt="imagem centro da Vasto"/>
+       <h1> Inovação para transformar </h1>
+       <p> Além de comunicação, estratégia e planejamento operamos todos os processos buscando pela excelência operacional e otimização de recursos, seja por meio da inovação de nossa plataforma ou de parcerias estratégicas. </p>
+        <a href="https://vasto.com.br/" target="_blank">
+         <img src="D:\maquina_virtual_t003\corpo_html.html\email_marketing\botao.png" alt="Botão que direciona para o site da Vasto"/>
+        </a>
+        
+      </td>
+     </tr>
+     <tr>
+
+
+   	</table>
+
+
+   </bory>
+</html> 

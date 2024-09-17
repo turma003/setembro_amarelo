@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<meta charset="uft-8">
+	<head>
+		<title>CyberTech</title>
+		<style type="text/css">
+			body {
+				 font-family: sans-serif;
+			}
+		</style>
+	</head>
+	<body bgcolor="FFFFFF">
+	<center>
+	<table bgcolor="#FFFFFF" widht="810">
+		<tr>
+			<td align="center">
+				<img src="D:\mq_Turma_003\mailmarketing\setembroamarelo.jpg" alt="campanha setembro amarelo"/>
+				<h1 style="color: #5F3AA2">Todos juntos pelo setembro amarelo
+				</h1>
+				<p align="center">A campanha Setembro Amarelo salva vidas!  Todos nós devemos atuar ativamente na conscientização da importância que a vida tem e ajudar na prevenção do suicídio, tema que ainda é visto como tabu. É importante falar sobre o assunto para que as pessoas que estejam passando por momentos difíceis e de crise busquem ajuda e entendam que a vida sempre vai ser a melhor escolha.</p>
+				<p>Se precisar, procure ajuda! </p>	
+				<h2>
+				<img src="D:\mq_Turma_003\mailmarketing\juntos.jpg" alt="imagem de um grupo unido" width="332">
+				<img src="D:\mq_Turma_003\mailmarketing\cyber.png" alt="logo marca da cybertech" width="180">
+				</h2>
+			</td>	
+			<nav>
+				<ul>		
+			<li> <a href="https://www.setembroamarelo.com/" target="blank">
+				 <img src="D:\mq_Turma_003\mailmarketing\botao.png" alt="Botão conhecer o site">
+			</a></li>
+			</nav>
+	</table>	
+	</center>
+
+</html>		

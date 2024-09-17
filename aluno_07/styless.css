@@ -1,0 +1,36 @@
+h1 {
+text-align: center; ;
+color: #ffc400;
+font-size: 20px;
+margin-top:30px;
+
+}
+
+img {
+     
+width: max-content, 50%;
+width: 100%;
+height: max-content, 50%;
+max-width: 50%;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+    background-color:#fff597;
+    font-family: "poppins", sans-serif;
+    justify-content: center;
+}
+
+
+footer{
+    padding: 6px 12px;
+    border: none;
+}
+
+ol{
+    list-style: none; 
+    text-align: center;
+    width:300px;
+}
+
